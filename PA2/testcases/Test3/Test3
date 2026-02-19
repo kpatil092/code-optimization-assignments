@@ -1,0 +1,5 @@
+Test:main
+7:$r0.<Test: Test f> $r3
+8:$r0.<Test: Test f> $r3
+9:$r0.<Test: Test f> $r3
+9:$r8.<Test: Test f> $r6
